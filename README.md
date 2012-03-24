@@ -1,7 +1,9 @@
 ### Chart for Percentage!
 
 =====================================================
+
 ![Drawn by Tetris Chart Plugin](https://img.skitch.com/20120324-xkptgdebp4eph25y1cuxb2yw37.jpg)
+
 This plugin is based on **jQuery** and **HighCharts**. Make sure you include them in your web page before you draw your tetris chart.
 
 ###How to use?
